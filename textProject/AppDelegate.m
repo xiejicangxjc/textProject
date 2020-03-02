@@ -16,7 +16,7 @@
 
 #pragma mark 在test2上添加了一个test2方法
 - (void)addTest2{
-    
+    NSLog(@"2222222222");
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
@@ -34,12 +34,12 @@
      这个是添加在develop2上的
      */
 
-<<<<<<< HEAD
+ 
  /*
   这个是添加在develop2上的
   
   */
-=======
+ 
  
     
     
@@ -52,24 +52,12 @@
     这个是添加在develop3上的
     
     */
-<<<<<<< HEAD
-=======
-
->>>>>>> 5d088569b42641e1ebf70c46c375b03ba445b7ec
  
->>>>>>> develop1
 
     return YES;
 }
-<<<<<<< HEAD
-#pragma mark 添加了一个孔方法
-- (void)addNil{
-    
-=======
-- (void)add3{
-    NSLog(@"add3333333......");
->>>>>>> develop3
-}
+ 
+ 
 
 #pragma mark - UISceneSession lifecycle
 
