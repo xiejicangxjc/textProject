@@ -16,7 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
+    NSLog(@"从develop1上拉取到代码，进行更改，更改完毕，提交到develop1上，尝试与喜爱");
+
+
     return YES;
 }
 
