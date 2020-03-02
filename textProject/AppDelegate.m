@@ -50,9 +50,14 @@
 
     return YES;
 }
+<<<<<<< HEAD
 #pragma mark 添加了一个孔方法
 - (void)addNil{
     
+=======
+- (void)add3{
+    NSLog(@"add3333333......");
+>>>>>>> develop3
 }
 
 #pragma mark - UISceneSession lifecycle
