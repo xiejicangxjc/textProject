@@ -14,6 +14,10 @@
 
 @implementation AppDelegate
 
+#pragma mark 在test2上添加了一个test2方法
+- (void)addTest2{
+    
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
