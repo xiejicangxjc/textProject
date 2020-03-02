@@ -18,7 +18,12 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     NSLog(@"从develop1上拉取到代码，进行更改，更改完毕，提交到develop1上，尝试与喜爱");
-
+/*
+ 1：此时，在develop1上，将更改数据，然后提交到主分支上去，
+ 2：主分支拉取数据，查看数据
+ 3：develop2 拉取主分支数据，查看是否更新为最新的数据
+ 4：在主分支上添加了数据信息
+ */
 
     return YES;
 }
