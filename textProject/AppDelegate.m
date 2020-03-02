@@ -34,7 +34,7 @@
     return YES;
 }
 - (void)add3{
-    NSLog(@"add3333333.............");
+    NSLog(@"add3333333...zxcvbnmmn3333333..........");
 }
 
 #pragma mark - UISceneSession lifecycle
