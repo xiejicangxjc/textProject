@@ -18,6 +18,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     NSLog(@"从develop1上拉取到代码，进行更改，更改完毕，提交到develop1上，尝试与喜爱");
+    /*
+     这个是添加在develop2上的
+     */
 
 
     return YES;
